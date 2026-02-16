@@ -1,0 +1,7 @@
+build-debug/
+build-release/
+build-*/
+.vs/
+.cache/
+*.spv
+CMakeUserPresets.json
